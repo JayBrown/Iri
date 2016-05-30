@@ -1,13 +1,13 @@
 # Iri
-**Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript OS X Automator Service (workflow) for Apple Mail that the recipient of a message can call to send an automated "I've-read-it" answer to the original message's sender and its CC recipients**
+**Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript OS X Automator Service (workflow) for Apple Mail, with which the recipient of a message can send an automated "I've-read-it" reply to the original message's sender and its CC recipients**
 
 ## Current status
 Beta (pre-release)
 
 ## About
-* Iri is called with a keyboard shortcut, and runs on a message the user has selected in Apple Mail
+* Iri is called with a keyboard shortcut, and runs on a message you have selected in Apple Mail
 * Iri automatically answers a message's sender and all its TO and CC recipients with a standard reply (Iri note) using the mail subject prefix "Vidi"
-* The Iri note will state the date the message was received, the date it was read, and that you will reply asap.
+* The Iri note will state the date the message was received, the date it was read, and that you will respond asap.
 * If the original message is in a local mailbox, Iri lets you choose the account from which to send the Iri note.
 * Iri then adds a new task to either Apple Reminders or Wunderlist (depending on the version you choose) in the list "Iri", with a due date of one week, set to remind you in a day (Apple Reminders only)
 * Iri writes the run date into a preferences file, and upon next launch it removes all sent Iri notes from your sent mailbox since that date (inclusive).
