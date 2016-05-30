@@ -9,8 +9,7 @@ Beta (pre-release)
 * Iri automatically answers a message's sender and all its TO and CC recipients with a standard reply (Iri note) using the mail subject prefix "Vidi"
 * The Iri note will state the date the message was received, the date it was read, and that you will reply asap.
 * If the original message is in a local mailbox, Iri lets you choose the account from which to send the Iri note.
-* Iri then adds a new reminder to Apple Reminders in the list "Iri", set to remind you in a day, with a due date of one week.
-* There will also be an option with Wunderlist support (alternate release).
+* Iri then adds a new task to either Apple Reminders or Wunderlist (depending on the version you choose) in the list "Iri", with a due date of one week, set to remind you in a day (Apple Reminders only)
 * Iri writes the run date into a preferences file, and upon next launch it removes all sent Iri notes from your sent mailbox since that date (inclusive).
 * Iri currently detects and answers messages written in English, German, Spanish, Italian, French, Dutch, and Latin; in all other cases the Iri note will be in English.
 
@@ -30,7 +29,7 @@ Installing `wunderline` is only necessary, if you want to use Iri with [Wunderli
 After installing `wunderline` you need to authorize the software by [creating a new app with Client ID and Access Token](https://developer.wunderlist.com/apps/new). Afterwards you only need to run `wunderline auth` in your shell.
 
 ## Installation
-* Download the OS X Service, expand, and double-click to install
+* Download the [latest release](https://github.com/JayBrown/Iri/releases), expand the archive, choose your version, and double-click to install
 * If you receive an error, open the file with Automator, and save/install from there
 * Manually set a keyboard shortcut in your System Preferences `Keyboard > Shortcuts > Services | General > Iri`, e.g. ⌃⌥⌘I
 
