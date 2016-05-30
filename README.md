@@ -1,5 +1,5 @@
 # Iri
-**Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript OS X Automator Service (workflow) for Apple Mail that the recipient of a message can call to send an automated "I've-read-it" message to the message sender and the CC recipients**
+**Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript OS X Automator Service (workflow) for Apple Mail that the recipient of a message can call to send an automated "I've-read-it" answer to the original message's sender and its CC recipients**
 
 ## Current status
 Beta (pre-release)
