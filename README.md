@@ -35,8 +35,9 @@ After installing `wunderline` you need to authorize the software by [creating a 
 * Manually set a keyboard shortcut in your System Preferences `Keyboard > Shortcuts > Services | General > Iri`, e.g. ⌃⌥⌘I
 
 ## To-do
-* Use shell command instead of AppleScript to enter new Iri reminder in Apple Reminders, as soon as [rem](https://github.com/kykim/rem) is working again
 * Find a fix for the flashing message window (AppleScript `visible=false` bug?)
+* Find a way to use AppleScript to extract only level 0 message content
+* Use shell command instead of AppleScript to enter new Iri reminder in Apple Reminders, as soon as [rem](https://github.com/kykim/rem) is working again
 
 ## Why Iri?
 * Some messages are too complex to answer in a brief amount of time, so it could be useful to let the sender know that you've read his message, and that you will reply as soon as you have the time.
