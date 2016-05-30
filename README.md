@@ -31,4 +31,4 @@ After installing `wunderline` you need to authorize the software by [creating a 
 ## Installation
 * Download the OS X Service, expand, and double-click to install
 * If you receive an error, open the file with Automator, and save/install from there
-* Manually set a keyboard shortcut in your System Preferences `Keyboard > Shortcuts > Services | General > Iri`, e.g. `⌃⌥⌘I`
+* Manually set a keyboard shortcut in your System Preferences `Keyboard > Shortcuts > Services | General > Iri`, e.g. ⌃⌥⌘I
