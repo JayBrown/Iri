@@ -24,11 +24,11 @@ Install using [Homebrew](http://brew.sh) with `brew install <software-name>` (or
 ### Node.js installations [optional]
 * [wunderline](https://github.com/wayneashleyberry/wunderline): `npm install -g wunderline`
 
-Installing `wunderline` is only necessary, if you want to use Iri with [Wunderlist](https://www.wunderlist.com)
+Installing `wunderline` is only necessary, if you want to use Iri with [Wunderlist](https://www.wunderlist.com).
 
 After installing `wunderline` you need to authorize the software by [creating a new app with Client ID and Access Token](https://developer.wunderlist.com/apps/new). Afterwards you only need to run `wunderline auth` in your shell.
 
 ## Installation
 * Download the OS X Service, expand, and double-click to install
 * If you receive an error, open the file with Automator, and save/install from there
-* Manually set a keyboard shortcut in your system's Services Preferences ("General")
+* Manually set a keyboard shortcut in your System Preferences `Keyboard > Shortcuts > Services | General > Iri`, e.g. `⌃⌥⌘I`
