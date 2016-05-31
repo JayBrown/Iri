@@ -4,7 +4,7 @@
 [![VBBar-depend-npm](https://img.shields.io/badge/dependency-npm%203.8.9-green.svg)](https://nodejs.org)
 [![VBBar-depend-trans](https://img.shields.io/badge/dependency-trans%200.9.4-green.svg)](https://github.com/soimort/translate-shell)
 [![VBBar-depend-wunderline](https://img.shields.io/badge/dependency-wunderline%204.3.1-ff69b4.svg)](https://github.com/wayneashleyberry/wunderline)
-[![VBBar-license](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/JayBrown/Iri/blob/master/license.md)
+[![VBBar-license](http://img.shields.io/badge/license-MIT+-blue.svg)](https://github.com/JayBrown/Iri/blob/master/license.md)
 
 # Iri
 **Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript OS X Automator Service (workflow) for Apple Mail, with which the recipient of a message can send an automated "I've-read-it" reply to the original message's sender and its CC recipients**
