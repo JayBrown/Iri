@@ -1,4 +1,4 @@
-![VBBar-platform-osx](https://img.shields.io/badge/platform-osx-lightgrey.svg)
+![VBBar-platform-osx](https://img.shields.io/badge/platform-OS%20X-lightgrey.svg)
 ![VBBar-code-shell](https://img.shields.io/badge/code-AppleScript-yellow.svg)
 [![VBBar-depend-node](https://img.shields.io/badge/dependency-node%206.2.0-green.svg)](https://nodejs.org)
 [![VBBar-depend-npm](https://img.shields.io/badge/dependency-npm%203.8.9-green.svg)](https://nodejs.org)
