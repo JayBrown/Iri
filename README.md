@@ -1,4 +1,4 @@
-![VBBar-platform-osx](https://img.shields.io/badge/platform-OS%20X-lightgrey.svg)
+![VBBar-platform-macos](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
 ![VBBar-code-shell](https://img.shields.io/badge/code-AppleScript-yellow.svg)
 [![VBBar-depend-node](https://img.shields.io/badge/dependency-node%206.2.0-green.svg)](https://nodejs.org)
 [![VBBar-depend-npm](https://img.shields.io/badge/dependency-npm%203.8.9-green.svg)](https://nodejs.org)
@@ -7,7 +7,7 @@
 [![VBBar-license](http://img.shields.io/badge/license-MIT+-blue.svg)](https://github.com/JayBrown/Iri/blob/master/license.md)
 
 # Iri
-**Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript OS X Automator Service (workflow) for Apple Mail, with which the recipient of a message can send an automated "I've-read-it" reply to the original message's sender and its CC recipients**
+**Iri (pronounced "eye-ree"), short for "I've read it", is an AppleScript macOS workflow for Apple Mail, with which the recipient of a message can send an automated "I've-read-it" reply to the original message's sender and its CC recipients**
 
 ![Iri-screengrab](https://github.com/JayBrown/Iri/blob/master/img/Iri_grab.png)
 
@@ -27,7 +27,7 @@ Beta (pre-release)
 Make sure you have `/usr/local/bin` in your `PATH`
 
 ### Homebrew installations
-Install using [Homebrew](http://brew.sh) with `brew install <software-name>` (or with a similar manager) 
+Install using [Homebrew](http://brew.sh) with `brew install <software-name>` (or with a similar manager)
 * [node](https://nodejs.org) [optional]
 * [translate-shell](https://github.com/soimort/translate-shell)
 
